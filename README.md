@@ -49,7 +49,7 @@ Implement simple tiered pricing:
 
 ### 2. Database
 - Schema design
-- Indexes for performance
+- Indexes for performance (optional)
 
 ### 3. Tests
 - Unit tests
